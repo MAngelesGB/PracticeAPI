@@ -1,0 +1,14 @@
+@ServicioClienteAPI_HostAddress = http://localhost:5084
+
+Delete {{ServicioClienteAPI_HostAddress}}/api/Cliente/-1
+Accept: application/json
+
+###
+
+Put {{ServicioClienteAPI_HostAddress}}/api/Cliente/2
+Accept: application/json
+
+###
+
+Post {{ServicioClienteAPI_HostAddress}}/api/Cliente?name=Angeles&age=18
+Accept: application/json
