@@ -30,3 +30,4 @@ C:\Users\MAnge\OneDrive\Documentos\estudios\c#\ServicioClienteAPI\obj\Debug\net8
 C:\Users\MAnge\OneDrive\Documentos\estudios\c#\ServicioClienteAPI\obj\Debug\net8.0\ServicioClienteAPI.pdb
 C:\Users\MAnge\OneDrive\Documentos\estudios\c#\ServicioClienteAPI\obj\Debug\net8.0\ServicioClienteAPI.genruntimeconfig.cache
 C:\Users\MAnge\OneDrive\Documentos\estudios\c#\ServicioClienteAPI\obj\Debug\net8.0\ref\ServicioClienteAPI.dll
+c:\Users\MAnge\OneDrive\Documentos\estudios\c#\ServicioClienteAPI\obj\Debug\net8.0\ServicioClienteAPI.sourcelink.json
